@@ -13,7 +13,11 @@
     "test": "mocha system-test/*.test.js --timeout=60000"
   },
   "devDependencies": {
+snyk-fix-9152ddc7f5691a438d3a669a9ee990a8
     "mocha": "^9.1.2",
+=======
+    "mocha": "^10.1.0",
+master
     "uuid": "^8.0.0"
   },
   "dependencies": {

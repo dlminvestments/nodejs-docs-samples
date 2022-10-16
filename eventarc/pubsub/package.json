@@ -19,12 +19,12 @@
     "system-test": "test/runner.sh mocha test/system.test.js --timeout=10000"
   },
   "dependencies": {
-    "@google/events": "^3.2.1",
+    "@google/events": "^4.0.1",
     "express": "^4.16.4"
   },
   "devDependencies": {
     "got": "^11.5.0",
-    "mocha": "^8.0.0",
+    "mocha": "^9.1.2",
     "sinon": "^9.0.0",
     "supertest": "^6.0.0",
     "uuid": "^8.0.0"
