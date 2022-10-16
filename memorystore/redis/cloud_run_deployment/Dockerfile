@@ -1,6 +1,14 @@
 # Use the official lightweight Node.js 12 image.
 # https://hub.docker.com/_/node
+snyk-fix-e6bdaf5a95f99e5396a217da6bb4bcc5
 FROM node:16-bullseye-slim
+=======
+snyk-fix-7bb1b3b6a098e39e8ec90b4e456685f9
+FROM node:16.11.0-bullseye-slim
+=======
+FROM node:17.9-slim
+master
+master
 
 # Create and change to the app directory.
 WORKDIR /usr/src/app
