@@ -38,13 +38,13 @@
     "@google-cloud/text-to-speech": "^3.0.0",
     "@google-cloud/translate": "^6.0.0",
     "uuid": "^8.0.0",
-    "firebase-admin": "^9.0.0",
+    "firebase-admin": "^10.0.2",
     "firebase-functions": "^3.0.0"
   },
   "devDependencies": {
     "@google-cloud/functions-framework": "^1.1.1",
     "child-process-promise": "^2.2.1",
-    "mocha": "^8.0.0",
+    "mocha": "^10.1.0",
     "request": "^2.88.0",
     "requestretry": "^4.0.0"
   }
