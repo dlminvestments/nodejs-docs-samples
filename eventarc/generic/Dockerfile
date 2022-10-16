@@ -16,7 +16,11 @@
 
 # Use the official lightweight Node.js 10 image.
 # https://hub.docker.com/_/node
+snyk-fix-b44dbe43dc41394d50d7d566d224551a
+FROM node:16.11.0-bullseye-slim
+=======
 FROM node:17.9-slim
+master
 
 # Create and change to the app directory.
 WORKDIR /usr/src/app
