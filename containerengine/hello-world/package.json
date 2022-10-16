@@ -19,7 +19,11 @@
   },
   "dependencies": {},
   "devDependencies": {
+snyk-fix-4078bbff69f743934b9e6de535a8db54
     "mocha": "^10.1.0",
+=======
+    "mocha": "^9.1.2",
+master
     "supertest": "^6.0.0"
   }
 }
