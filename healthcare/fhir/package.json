@@ -14,7 +14,11 @@
   "devDependencies": {
     "@google-cloud/pubsub": "^3.0.0",
     "@google-cloud/storage": "^5.0.0",
+snyk-fix-f1c6947da667273298a21e3e914654d7
+    "mocha": "^10.1.0"
+=======
     "mocha": "^9.1.2"
+master
   },
   "dependencies": {
     "googleapis": "^66.0.0",
