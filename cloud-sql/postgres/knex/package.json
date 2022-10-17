@@ -27,7 +27,11 @@
     "yargs": "^16.0.0"
   },
   "devDependencies": {
-    "mocha": "^8.0.0",
+snyk-fix-210b8737bffa2228b3ff6da1d2968a81
+    "mocha": "^10.1.0",
+=======
+    "mocha": "^9.1.2",
+master
     "supertest": "^6.0.0"
   }
 }
