@@ -20,6 +20,10 @@
     "yargs": "^16.0.0"
   },
   "devDependencies": {
+snyk-fix-bf28311ad5c584cad3c06a24278889de
     "mocha": "^10.1.0"
+=======
+    "mocha": "^9.1.2"
+master
   }
 }
