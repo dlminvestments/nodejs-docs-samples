@@ -15,7 +15,11 @@
     "test": "mocha test/*.test.js --timeout=20000"
   },
   "devDependencies": {
+snyk-fix-87b116cd5a7ce5983dc9eddf46dc0c76
+    "mocha": "^10.1.0",
+=======
     "mocha": "^9.1.2",
+master
     "proxyquire": "^2.0.0",
     "sinon": "^9.0.0"
   },
