@@ -13,7 +13,7 @@ FROM node:slim
 
 FROM node:slim
 =======
-FROM node:16.17-slim
+FROM node:gallium-slim
 
 
 
