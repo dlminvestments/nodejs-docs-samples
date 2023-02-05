@@ -7,7 +7,7 @@
 snyk-fix-5cb1f26cf607c3b07ad0de55b9dd1b6e
 FROM node:16.15-bullseye-slim
 =======
-FROM node:16.18.1-bullseye-slim
+FROM node:gallium-bullseye-slim
 master
 
 # Create and change to the app directory.
