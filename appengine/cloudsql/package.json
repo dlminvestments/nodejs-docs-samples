@@ -30,7 +30,7 @@
   "devDependencies": {
     "mocha": "^9.1.2",
     "proxyquire": "^2.1.0",
-    "sinon": "^9.0.0",
+    "sinon": "^19.0.0",
     "supertest": "^6.0.0",
     "wait-port": "^0.2.7"
   }
