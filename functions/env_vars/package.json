@@ -16,7 +16,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "mocha": "^9.1.2",
+    "mocha": "^11.0.1",
     "sinon": "^9.0.0"
   }
 }
