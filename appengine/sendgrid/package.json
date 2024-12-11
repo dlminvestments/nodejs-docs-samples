@@ -19,7 +19,7 @@
     "@sendgrid/client": "^7.0.0"
   },
   "devDependencies": {
-    "mocha": "^9.1.2",
+    "mocha": "^10.3.0",
     "supertest": "^6.0.0",
     "proxyquire": "^2.1.3"
   }
