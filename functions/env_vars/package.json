@@ -17,6 +17,6 @@
   "dependencies": {},
   "devDependencies": {
     "mocha": "^9.1.2",
-    "sinon": "^9.0.0"
+    "sinon": "^21.0.1"
   }
 }
